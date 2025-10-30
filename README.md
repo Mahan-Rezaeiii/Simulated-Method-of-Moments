@@ -1,1 +1,2 @@
-# Public-Economics
+# Economics of The Labor Force (Spring 2025)
+This repository contains my personal project for the **Economics of The Labor Force** course offered by the Department of Economics at the [Tehran Institute for Advanced Studies (TeIAS)](https://teias.institute/).
