@@ -3,7 +3,16 @@ This repository contains my personal project for the **Economics of The Labor Fo
 
 ---
 
-## Overview
+## **Overview**
+
+In this project, I implement the Simulated Method of Moments (SMM) to estimate the parameters of a simple AR(1) data-generating process.
+
+The project proceeds as follows:
+- Model Setup
+- Moment Construction
+- SMM Estimation (Just-identified cases \& Overidentified case)
+- Identification Analysis
+- Bootstrapping
 
 ---
 
